@@ -15,4 +15,4 @@ webpackConfig.module.preLoaders = [
 delete webpackConfig.externals;
 delete webpackConfig.output;
 
-module.exports = webpackConfig;
+module.exports = webpackConfig; 
